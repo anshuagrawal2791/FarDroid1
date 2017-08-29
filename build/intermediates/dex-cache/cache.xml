@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/anshu/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-core-1.3_a828399405d6d3b2ad98d16c2524f3bd2c005414.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anshu/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-integration/1.3/5de0c73fef18917cd85d0ab70bb23818685e4dfd/hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-integration-1.3_201207ba3b55a392a016a21329da5ece01986ba3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_767275c760956568d7eca383866fc59317fbf70a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anshu/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/pre-dexed/androidTest/debug/junit-4.12_bcb2930317abfcefcca381f415c5f2aabd92137d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anshu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_d41bdee414949601af92cf11df1a90eed3eb2079.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_a27dff79c7c0224de457f8204b1d5b12d10d6a9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-core/2.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d115b0e9e1501135fe91254ba884fcbd83d374c0">
+        <dex dex="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test.espresso-espresso-core-2.2.2_d18f6bd537372d21cfae300e3c6d533875dd8129.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anshu/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.1.1/67ff45d9ae02e583d0f9b3432a5ebbe05c30c966/javawriter-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/pre-dexed/androidTest/debug/javawriter-2.1.1_0f8b1c589ed1726dc531790213a19bb7c32012a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_1655284b1ffe73c2cbc68c58ccaa000b28e76397.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anshu/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/pre-dexed/androidTest/debug/javax.inject-1_f4258a63cc6025cb8eee5d40e96bf9be883dba20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_3adedf4e25d9f9020ca5f3092c377fdf8a79cf08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-idling-resource/2.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a890ee8445927649d9ed50f625a315d8758688be">
+        <dex dex="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test.espresso-espresso-idling-resource-2.2.2_5c31e3a3e04c3cfb35772184b8e273eb4e62fc16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/exploded-aar/com.android.support.test/exposed-instrumentation-api-publish/0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test-exposed-instrumentation-api-publish-0.5_8472c60ed879ccc62f302d25aa41beed0256fc46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_ab94ad9841b88d77b45e7a7ce554178db9cdd973.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_e404963860ab50da7fec12fe471f60d4e1ef594d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/exploded-aar/com.android.support.test/runner/0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test-runner-0.5_a200516fd8f9a3677324033ad948efedf2fe0563.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anshu/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/479c1e06db31c432330183f5cae684163f186146/javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/pre-dexed/androidTest/debug/javax.annotation-api-1.2_47c48b3f032d87731fe8713b6a6a9f6faac62394.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_e704cfc9f79e2d02e8cee5bc5d4153b5129f880b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anshu/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/pre-dexed/androidTest/debug/jsr305-2.0.1_98ace517f1bbee52acd4b8d59009348dbd73cd7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_a14f2de917e2b70a8157053065bf851036d96b67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anshu/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.3/4785a3c21320980282f9f33d0d1264a69040538f/hamcrest-library-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-library-1.3_adb7eb554d1bb7562828f7f570ebd4189f96ad3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_5e6b031d39170720fb333a6b3fbc51bab1087421.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_270875d9b1da8aafaf5a9f9cc110a9c43e44ad4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/exploded-aar/com.android.support.test/rules/0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
+        <dex dex="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test-rules-0.5_2153a34bb47f9a0c64fa1d138e743b1f9a97187a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_a6548dbe3d1d742d2252baecc0bd5066565e593b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/exploded-aar/com.android.support.test.uiautomator/uiautomator-v18/2.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8ece701a759b4dd2005a8467388d5fca5b13e65e">
+        <dex dex="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test.uiautomator-uiautomator-v18-2.1.1_20b94eef4fff7580ded746a300da1b2701fd929c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_be4b72c542c1882a4b104f04e6f9d89b0b5defc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_66a544b1840b0ba55b113c45969bc6b06d6da1f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/anshu/Desktop/desko/FarDroid1/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_ba3b1b1458567eb9959ddbc89787b536515f6b6e.jar" />
+    </item>
+
+</items>
