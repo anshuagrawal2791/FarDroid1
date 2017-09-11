@@ -14,6 +14,7 @@ import android.support.test.uiautomator.UiObject;
 import android.support.test.uiautomator.UiObjectNotFoundException;
 import android.support.test.uiautomator.UiSelector;
 import android.support.test.uiautomator.Until;
+import android.util.Log;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -63,7 +64,7 @@ public class ExampleInstrumentedTest {
             mDevice.pressHome();
             mDevice.pressRecentApps();
             UiObject app = new UiObject(new UiSelector().resourceId("com.android.systemui:id/dismiss_task").descriptionContains("Dismiss YouTube"));
-            if (app != null)
+            if (app.waitForExists(2000))
                 app.click();
             // Wait for launcher
             final String launcherPackage = mDevice.getLauncherPackageName();
@@ -113,19 +114,21 @@ public class ExampleInstrumentedTest {
 
     private void playForTime(UiObject searchRes,long timeInSec) throws InterruptedException {
         try {
-            System.out.println("waiting for search results");
+            Log.e("Unit Test","waiting for search results");
 
             searchRes.click();
-            System.out.println("Search results obtained");
+            Log.e("Unit Test","Search results obtained");
 
             UiObject loadingBar = new UiObject(new UiSelector().resourceId("com.google.android.youtube:id/player_loading_view_thin"));
-            System.out.println("waiting for video to load...");
-            loadingBar.waitUntilGone(5000);
-            System.out.println("video has started to play");
-            Thread.sleep(timeInSec*500);
             UiObject triangles = new UiObject(new UiSelector().resourceId("com.google.android.youtube:id/fast_forward_rewind_triangles"));
-            triangles.click();
             UiObject playPauseButton = new UiObject(new UiSelector().resourceId("com.google.android.youtube:id/player_control_play_pause_replay_button"));
+
+            Log.e("Unit test","waiting for video to load...");
+            playPauseButton.waitForExists(10000);
+            Log.e("Unit Test","video has started to play");
+
+            Thread.sleep(timeInSec*500);
+            triangles.click();
             playPauseButton.click();
             Thread.sleep(3000);
             playPauseButton.click();
